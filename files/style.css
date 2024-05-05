@@ -1,0 +1,234 @@
+.11p-6 {
+	font-size: 13px;
+	color: #333333;
+	font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+.11p-7 {
+	font-size: 11px;
+	color: #999999;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+
+}
+.11p-red {
+	font-size: 11px;
+	color: #0E538B;
+	font-weight: normal;
+}
+.c01 {
+	color: #000000;
+	font-family: Verdana, "Verdana", "Administrator Password"; font-size: 10pt; line-height: 15pt; color: #000000; text-decoration: none;
+	
+}
+.16p-b {
+	font-size: 15px;
+	color: #717171;
+	text-transform: none;
+	font-style: normal;
+	text-decoration: blink;
+	font-weight: normal;
+
+}
+.top-but {
+	margin-bottom: 5px;
+	float: right;
+	margin-right: 3px;
+
+}
+.me02 {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	padding-top: 6px;
+	padding-left: 8px;
+	padding-bottom: 0px;
+	letter-spacing: 1pt;
+	font-weight: normal;
+
+}
+.me01 {
+	font-size: 15px;
+	color: #104070;
+	text-decoration: none;
+	padding-top: 4px;
+	padding-left: 23px;
+	padding-bottom: 0px;
+	letter-spacing: 1pt;
+	line-height: 19px;
+
+}
+.me01 a:link{
+	font-size: 15px;
+	color: #104070;
+	text-decoration: none;
+
+}
+.me01 a:visited{
+	font-size: 15px;
+	color: #104070;
+	text-decoration: none;
+
+}
+.me01 a:hover{
+	font-size: 15px;
+	color: #CC0000;
+	text-decoration: underline;
+
+}
+.me01 a:active{
+	font-size: 15px;
+	color: #2B89BD;
+	text-decoration: none;
+
+}a:hover {
+	color: #003366;
+	text-decoration: underline;
+}
+.tit01 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #504B4E;
+	text-decoration: none;
+	letter-spacing: 1pt;
+	font-family: "Verdana","Administrator Password";
+}
+.copy a:active{
+	font-size: 13px;
+	color: #184772;
+	font-weight: normal;
+	text-decoration: none;
+	font-family: "Verdana","Administrator Password";
+}
+.copy {
+	font-size: 13px;
+	color: #184772;
+	font-weight: normal;
+	text-decoration: none;
+	font-family: "Verdana","Administrator Password";
+}
+.copy a:visited{
+	font-size: 13px;
+	color: #184772;
+	font-weight: normal;
+	text-decoration: none;
+	font-family: "Verdana","Administrator Password";
+
+}
+.copy a:link{
+	font-size: 13px;
+	color: #184772;
+	font-weight: normal;
+	text-decoration: none;
+}
+.copy a:hover{
+	font-size: 13px;
+	color: #ffffff;
+	font-weight: normal;
+	text-decoration: none;
+}
+.notice01 {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	line-height: 14pt;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	padding: 10px;
+
+}
+.notice {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	line-height: 14pt;
+	font-weight: normal;
+	color: #0E538B;
+	text-decoration: none;
+	padding: 10px;
+
+}
+.copy1 {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.11p-wbold {
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #BC2424;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-weight: bold;
+
+}
+.tab01 {
+	border: 2px solid E3ECF6;
+
+}
+.11p-6-tabline {
+	font-size: 11px;
+	color: #333333;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #E3ECF6;
+
+}
+
+span.txtTitle01{
+	font-weight:bold; color:#910709;
+}
+.pageTitle01{
+	color:#910709; font-size:large;
+}
+.txtBox {
+	text-align: justify;
+	text-justify:inter-ideograph;
+	line-height: 1.8;
+}
+.arror{
+	width:10px;
+	height:11px;
+	padding-right:3px;
+	padding-bottom:2px;
+	background:url(image/goldArrow.gif) no-repeat;
+	vertical-align:text-bottom;
+	border:0px;
+}
+.c12.txtBox p font {
+	color: #910709;
+	font-weight: bold;
+}
+.T_Sample {
+	border-collapse: collapse;
+	border: none;
+	background: #FFFFFF;
+}
+.T_Sample td {
+				
+	border: solid 1px #000000;
+					  
+}
+ul.labelbox{
+    list-style: none;
+    text-indent: -27px;
+    padding-left: 27px;
+}
+.titleText{
+        color: #c30000;
+    font-size: 17px;
+    padding-right: 5px;
+}
+.titleText strong::before{
+    content: '';
+    border-left: 6px solid #c30000;
+    padding-left: 5px;
+}
+.contactInfo{
+            list-style: none;
+            border-radius: 10px;
+            border: 1px solid #696969;
+            width: 400px;
+            padding: 20px;
+            background-color: #e0effe;
+            box-shadow: 2px 2px;
+        }
